@@ -1,7 +1,7 @@
 
 def roll_call_dwarves(names)
   names.each_with_index do |who, num|
-    puts "(#{num} + 1).  #{who} 
+    puts "(#{num} + 1).  #{who}"
   end
  end
 
